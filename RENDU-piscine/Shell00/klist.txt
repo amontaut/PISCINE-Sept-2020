@@ -1,0 +1,5 @@
+Credentials cache: API:D8A53B2B-7BE0-4DA6-8B2C-1651F9CBB98E
+        Principal: amontaut@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  7 11:08:32 2020  Sep 14 11:08:32 2020  FPRIA  krbtgt/42.FR@42.FR
