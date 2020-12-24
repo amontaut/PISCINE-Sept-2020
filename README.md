@@ -2,7 +2,7 @@
 
 PISCINEUX DANGER ZONE - You should not copy this code. It's cheating and it won't help you. 
 
-Anyways, here's my raw work at the 42 piscine in September 2020. I didn't change any file since I pushed them during the piscine.
+Anyways, here's my raw work from the 42 piscine in September 2020. I didn't change any file since I pushed them during the piscine.
 
 
 ## Grades : 
