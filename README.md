@@ -21,3 +21,5 @@ C06 - 100%
 C07 - 60%  
 C08 - 100%  
 C09 - 100%
+
+![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/PISCINE-Sept-2020?color=informational&style=for-the-badge)
